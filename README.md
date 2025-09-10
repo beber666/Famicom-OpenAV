@@ -38,3 +38,4 @@ Advantages
 Disclaimer
 
 This is an open-source, community-driven project. Use at your own risk: modifications involve soldering and handling fragile vintage hardware. Neither the author nor contributors are responsible for potential damage to your console.
+You can support me and donate there 0x46bA02317f92aFd973d9F80568719CFf30059846  (ETH20)
