@@ -16,7 +16,7 @@ Other versions may require adaptation.<br />
 Required Parts (based on Miko’s original guide)<br />
 <br />
 To build the circuit manually or verify your PCB assembly, you will need:<br />
-	•	2 × Female RCA jacks (1 yellow for video, 1 white for audio)<br />
+	•	2 × Female RCA jacks (1 yellow for video, 1 white for audio) Famicom is mono sound. If you want you can solder L and R wires on the audio pin to route the audio on the both speakers<br />
 	•	4 × Wires (preferably in 3 different colors)<br />
 	•	1 × Transistor: 2SC1815 (or equivalent NPN transistor)<br />
 	•	2 × Resistors: 22 kΩ<br />
