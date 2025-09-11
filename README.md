@@ -6,6 +6,16 @@ The project is based on the research and documentation from [Miko’s Famicom AV
 For the moment, it's only compatible with the **HVC-CPU-07** board.  
 There is a "manual" hack for the more recent board versions [here](https://famicomania.net/famav3.html). Once I have this type of board, I will design another Gerber file.
 
+
+---
+
+## Pictures
+<img width="1222" height="1088" alt="PCB" src="https://github.com/user-attachments/assets/de180c95-e2cf-4c1f-9922-96a7f855b452" />
+<img width="330" height="272" alt="Schematic_2025-09-10" src="https://github.com/user-attachments/assets/4ce4c8be-71f5-42e2-8a8b-57a3ae6c1ebf" />
+![PIns](https://github.com/user-attachments/assets/1db9c1db-158e-4b0a-b263-046386d563ce)
+
+
+
 ---
 
 ## Features
