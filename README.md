@@ -22,6 +22,8 @@ Sources files are included in the repo. Use https://easyeda.com/ to read them
 
 ![Solder points](https://github.com/user-attachments/assets/a11e1a89-39f7-4dc6-bddb-a17cd2afe74f)
 
+![Easyeda](https://github.com/user-attachments/assets/f8b8df23-ecab-48ad-91e0-c31432ce1a4d)
+
 
 ---
 
