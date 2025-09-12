@@ -84,6 +84,3 @@ You can support me and donate:
 
 ---
 
-## Images
-
-SOON
