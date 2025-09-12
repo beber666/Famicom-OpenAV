@@ -5,7 +5,13 @@ The project is based on the research and documentation from [Miko’s Famicom AV
 
 For the moment, it's only compatible with the **HVC-CPU-07** board.  
 There is a "manual" hack for the more recent board versions [here](https://famicomania.net/famav3.html). Once I have this type of board, I will design another Gerber file.
+---
 
+## Sources Files
+Sources files are included in the repo. Use https://easyeda.com/ to read them
+
+
+---
 
 
 ---
