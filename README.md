@@ -30,6 +30,8 @@ Motherboard HVC-CPU-07:
 Motherboard HVC-CPU-GPM-02
 ![PCB-3D](https://github.com/user-attachments/assets/93bc5642-9e75-4ab3-897b-beeffadcbc87)
 ![PCB View](https://github.com/user-attachments/assets/b62fc047-e1e1-4dad-8045-79ceff128847)
+![screenshot 2025-09-19 à 09 58 55](https://github.com/user-attachments/assets/355e7210-4fee-42ae-a290-8ee5ca259201)
+
 
 
 ---
