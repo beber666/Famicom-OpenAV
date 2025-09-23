@@ -25,6 +25,12 @@ Motherboard HVC-CPU-07:
 ![Solder points](https://github.com/user-attachments/assets/a11e1a89-39f7-4dc6-bddb-a17cd2afe74f)
 
 ![Easyeda](https://github.com/user-attachments/assets/f8b8df23-ecab-48ad-91e0-c31432ce1a4d)
+![EBA709E9-3618-4619-840C-9AB0BED597FA](https://github.com/user-attachments/assets/3bb137f6-1c00-491a-b757-cb2e38130d60)
+![D5736E42-56C4-4168-A829-D1B4C7EF8856](https://github.com/user-attachments/assets/16b88c0c-def2-4f55-9e05-f0cd15e21526)
+![92E8E763-5859-4164-8901-EBFCD4604465](https://github.com/user-attachments/assets/cf424e0e-2447-4413-81f4-fc00f0e71c48)
+![4048EB79-C422-4F37-93AC-4F4874021D53](https://github.com/user-attachments/assets/ff463b0a-6b49-4a55-b39a-20460518b869)
+![90C5C1C5-AD85-47DB-96FB-20E9B8BA2977](https://github.com/user-attachments/assets/621fde2d-d500-4213-ad2c-fd41594073a4)
+![F4870D2B-16A6-4A92-A535-9D700B99D0C2](https://github.com/user-attachments/assets/1ce9e6d4-0c84-48ac-ac85-013547123145)
 
 
 Motherboard HVC-CPU-GPM-02
