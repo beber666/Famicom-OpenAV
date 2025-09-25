@@ -1,7 +1,7 @@
 # Famicom Open AV MOD
 
 Famicom Open AV is an open-source hardware project that provides custom PCB designs to add composite AV output to the original Nintendo Famicom.  
-The project is based on the research and documentation from [Miko’s Famicom AV-mod guide (archived)](https://web.archive.org/web/20250321162602/https://miko.mobi/famav.htm), which explains how to tap into the Famicom’s video and audio signals safely.
+The project is based on the research and documentation from [Miko’s Famicom AV-mod guide (archived)](https://web.archive.org/web/20250321162602/https://miko.mobi/famav.htm), which explains how to tap into the Famicom’s video and audio signals safely, and also from Scruffy Lookin RGB https://www.youtube.com/@ScruffyLookinRGB.
 
 Boards Compatibles are: Motherboard HVC-CPU-07 and Motherboard HVC-CPU-GPM-02  
 
