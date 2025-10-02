@@ -64,7 +64,7 @@ To build the circuit manually or verify your PCB assembly, you will need:
 - 1 × Electrolytic capacitor: **0.47 µF 50V**
 
   
-## Required Parts for Motherboard HVC-CPU-GPM-02 (based on [https://famicomania.net/famav.html](https://famicomania.net/famav3.html) )
+## Required Parts for Motherboard HVC-CPU-GPM-02 (based on [https://famicomania.net/famav3.html](https://famicomania.net/famav3.html) )
 
 To build the circuit manually or verify your PCB assembly, you will need:
 
