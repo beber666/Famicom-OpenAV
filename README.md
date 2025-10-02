@@ -52,7 +52,7 @@ Motherboard HVC-CPU-GPM-02
 
 ---
 
-## Required Parts (based on Miko’s original guide) for Motherboard HVC-CPU-07
+## Required Parts (based on Miko’s original guide and https://famicomania.net/famav.html ) for Motherboard HVC-CPU-07
 
 To build the circuit manually or verify your PCB assembly, you will need:
 
@@ -64,7 +64,7 @@ To build the circuit manually or verify your PCB assembly, you will need:
 - 1 × Electrolytic capacitor: **0.47 µF 50V**
 
   
-## Required Parts for Motherboard HVC-CPU-GPM-02 (based on https://famicomania.net/famav.html )
+## Required Parts for Motherboard HVC-CPU-GPM-02 (based on [https://famicomania.net/famav.html](https://famicomania.net/famav3.html) )
 
 To build the circuit manually or verify your PCB assembly, you will need:
 
